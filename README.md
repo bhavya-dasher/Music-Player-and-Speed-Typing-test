@@ -1,1 +1,1 @@
-
+During the internship from CodeClause, i have created multiple applications in python like Speed typing test, muisic player and these projects helps me to understand the beauty of python over other programming languages 
